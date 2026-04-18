@@ -1,0 +1,5 @@
+Pregunta 4 — Reflexión de la semana
+En un texto de 8 a 10 líneas, responde:
+
+R://  El uso responsable de la información en internet está directamente relacionado con la participación ciudadana, ya que una sociedad bien informada puede tomar decisiones más conscientes y críticas. Cuando las personas verifican fuentes y comparten contenido veraz, contribuyen a un entorno digital más confiable. Esto fortalece la participación, pues permite debatir y actuar con base en datos reales. Por otro lado, herramientas como Git promueven la organización del trabajo técnico mediante el registro transparente de cambios y la colaboración entre múltiples personas. Esta lógica de colaboración ordenada se asemeja a la participación ciudadana responsable, donde cada aporte cuenta y debe ser claro y verificable. Así, tanto en el ámbito digital como en el técnico, la responsabilidad y la organización son claves. En ambos casos se fomenta la confianza, la cooperación y el progreso colectivo. Finalmente, estas prácticas ayudan a construir comunidades más sólidas, tanto en línea como fuera de ella.
+

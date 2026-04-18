@@ -1,0 +1,19 @@
+Pregunta 5 — Actividad práctica de algoritmia
+Escribe un algoritmo de mínimo 6 pasos para explicar:
+
+R:// 
+1.Identificar la información que se desea compartir y su propósito.
+
+2.Verificar la fuente original, asegurando que provenga de un sitio o autor confiable.
+
+3.Contrastar la información con al menos dos fuentes adicionales para confirmar su veracidad.
+
+4.Revisar la fecha de publicación para evitar difundir contenido desactualizado.
+
+5.Analizar el contenido en busca de sesgos, errores o información engañosa.
+6.Citar correctamente la fuente al momento de compartir la información.
+
+7.Publicar el contenido de manera responsable, evitando alterar su significado original.
+
+8.Estar dispuesto a corregir o eliminar la información si se detecta algún error posteriormente.
+
