@@ -1,0 +1,7 @@
+Saber usar la terminal nos hace la vida mucho más fácil como desarrollador.
+Es más rápida que estar dando clics por todos lados y te ayuda a moverte entre carpetas sin perder tiempo.
+Además, muchas herramientas importantes como Git o los gestores de paquetes se usan más en la terminal, así que sí o sí lo necesitamos.
+También podemos automatizar cosas repetitivas con comandos o scripts, lo cual ahorra bastante tiempo.
+Nos ayuda a entender mejor cómo está organizado nuestro proyecto y cómo funciona el sistema por dentro.
+En muchos trabajos incluso nos toca conectarnos a servidores donde no hay interfaz gráfica, entonces la terminal es clave.
+Al final, dominarla nos hace trabajar más cómodo, más rápido y con más control sobre lo que hacemos.
