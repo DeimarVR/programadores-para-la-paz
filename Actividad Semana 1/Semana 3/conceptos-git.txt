@@ -1,0 +1,11 @@
+Explicar conceptos básicos de Git
+
+Repositorio:
+R:// Es el lugar donde se almacenan y organizan los archivos y el historial de un proyecto. Puede estar en tu computadora o en plataformas en línea.
+
+Commit:
+R://  Es un registro o “foto” de los cambios realizados en el proyecto en un momento específico, acompañado normalmente de un mensaje descriptivo.
+
+
+Push:
+R://  Es la acción de enviar los cambios guardados localmente (commits) hacia un repositorio remoto para actualizarlos y compartirlos.
