@@ -1,0 +1,8 @@
+Cuando abro http://localhost:3000/
+Me dice Servidor activo
+
+Con este, http://localhost:3000/saludo
+Sale, Hola comunidad
+
+Y con este, http://localhost:3000/mensaje/juan
+Hola juan

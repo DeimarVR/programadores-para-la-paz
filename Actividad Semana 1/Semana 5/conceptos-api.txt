@@ -1,0 +1,3 @@
+Pues la ruta basicamente recibe informacion enviada usando el metodo POST, toma el mensaje desde req.body.mensaje y lo responde en formato Json
+
+La ruta nos podria servir para que las personas de una comunidad envien reportes o alertas sobre problemas o cualquier informacion que sea importante
