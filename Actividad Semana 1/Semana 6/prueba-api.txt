@@ -1,0 +1,11 @@
+Al realizar una petición HTTP utilizando el método POST hacia la URL http://localhost:3000/registro, e incluyendo en el cuerpo (body) un objeto JSON con las propiedades "nombre" y "mensaje", el servidor procesa exitosamente la información.
+
+Esto ocurre porque el middleware 'express.json()' parsea el cuerpo de la petición y lo deja disponible en 'req.body'. Luego, la ruta captura esos valores y los retorna en una nueva estructura JSON junto con un mensaje de confirmación.
+
+La respuesta exacta que devuelve el servidor (con un código de estado 200 OK) es:
+
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
