@@ -1,0 +1,3 @@
+El comando 'uname -a' muestra información detallada del sistema operativo y del kernel de Linux, incluyendo el nombre del host, la versión del núcleo, la arquitectura del hardware y la fecha de compilación. Por otro lado, el comando 'whoami' devuelve el nombre del usuario actual que está ejecutando la sesión en la terminal.
+
+Conocer esta información es fundamental al administrar un servidor porque permite verificar la compatibilidad de software, aplicar parches de seguridad específicos para la versión del kernel instalada y auditar los privilegios del usuario actual para evitar la ejecución accidental de comandos destructivos.
