@@ -1,8 +1,0 @@
-Una plataforma tecnológica de participación ciudadana necesita una base de datos para guardar y organizar la información de causas, apoyos y usuarios.
-La autenticación permite identificar quién accede al sistema y garantiza que solo personas autorizadas realicen acciones importantes.
-La protección de la información es clave para cuidar datos sensibles y evitar riesgos de privacidad o uso indebido.
-Sin una buena gestión de datos y seguridad, la comunidad perdería confianza en la plataforma.
-Las rutas protegidas impiden que usuarios no autorizados vean o modifiquen contenido privado.
-Una base de datos también ayuda a mantener la trazabilidad de los cambios y apoyos registrados.
-De esta forma se puede administrar mejor la información y demostrar transparencia en la participación.
-Una plataforma clara, segura y responsable fomenta la participación ciudadana sin poner en riesgo a la comunidad.

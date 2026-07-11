@@ -1,5 +1,0 @@
-1.Como ciudadano quiero registrar una solicitud o incidencia comunitaria en el sistema para dejar evidencia pública del caso con fotos o descripción.
-2.Como coordinador de veeduría quiero ver una lista de todas las incidencias registradas para clasificarlas según su urgencia.
-3.Como coordinador de veeduría quiero recibir una alerta automática en Telegram cada vez que se registre un nuevo reporte para revisarlo rápidamente.
-4.Como miembro del equipo de veeduría quiero actualizar el estado de una solicitud (Ej: "En revisión", "Resuelto") para que la comunidad conozca el avance.
-5.Como ciudadano quiero filtrar los reportes comunitarios por categoría o sector para consultar el estado de las obras o problemáticas de mi barrio.
